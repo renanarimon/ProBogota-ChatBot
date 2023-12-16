@@ -1,4 +1,5 @@
 # Text Classification Project
+![download](https://github.com/renanarimon/ProBogota-ChatBot/assets/77155986/62e4ecbc-f02b-4d13-9151-5e49ce5e7900)
 
 ## Project Overview
 This project is centered around building a deep learning model for text classification. We aimed to classify text into six distinct categories:
